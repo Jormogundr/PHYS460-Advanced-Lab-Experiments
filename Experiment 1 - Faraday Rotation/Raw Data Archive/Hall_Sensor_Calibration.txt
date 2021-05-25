@@ -1,0 +1,13 @@
+#Name: Jim Hetrick
+#Date: Data collected March 2, 2011
+#Location: Data collected in Physics Advanced Lab UM-D, Room 2228 Computer Wing
+#Description: To calibrate a Hall sensor circuit the sensor was mounted in the center of a Slink solenoid. The orientation of the sensor face was perpendicular to the longitudinal axis of the solenoid so that it would capture maximum B flux.  The voltage output of the sensor circuit was measured as a function of the current through the solenoid. The solenoid has 50 turns per 52 centimeters.
+#Column 1: Current in amperes.
+#Column 2: Voltage in volts.
+#Column 3: Uncertainty in current. This is the display uncertainty based on the number of digits reported. No record of the meter used.
+#Column 4: Uncertainty in voltage. This is the display uncertainty based on the number of digits reported. No record of the meter used.
+#i(A),V(V),di(A),dV(V)
+0,0,0,0
+1.00,0.022,0.01,0.001
+2.00,0.044,0.01,0.001
+3.00,0.066,0.01,0.001

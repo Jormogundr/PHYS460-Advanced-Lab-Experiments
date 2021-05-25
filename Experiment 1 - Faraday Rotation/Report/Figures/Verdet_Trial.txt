@@ -1,0 +1,17 @@
+#Name: Jim Hetrick
+#Date: Data collected Feb. 28, 2011
+#Location: Data collected in Physics Advanced Lab UM-D, Room 2228 Computer Wing
+#Record: Page 95 of "Hetrick UM-D Notebook 2"
+#Description: Record of polarizer angle of rotation needed to return light intensity to a preset B=0 value as a function of applied B. The applied B is due to the current in TeachSpin Faraday rotation apparatus.  Here, the current in the solenoid is given, as a quantity that is proportional to B.  The current can be converted to a B field value once the solenoid has been calibrated.
+#Column 1: Current through TeachSpin solenoid in Amperes.
+#Column 2: Angle of rotation of polarizer to return light intensity to its B = 0 value in degrees.
+#Column 3: Estimated uncertainty in the current based on the number of digits reported. No record of meter used, or its most recent calibration.
+#Column 4: Estimated uncertainty in the angle reading. About 0.5 degrees. Angles were read by eye from the angle markings on the polarizer. Half-degree resolution in a single measurement.
+#i(A),Ang(deg),di(A),dAng(deg)
+0,0,0.002,0.5
+0.495,0,0.002,0.5
+1.018,1.0,0.002,0.5
+1.503,2.0,0.002,0.5
+2.007,2.0,0.002,0.5
+2.510,3.0,0.002,0.5
+2.999,4.0,0.002,0.5

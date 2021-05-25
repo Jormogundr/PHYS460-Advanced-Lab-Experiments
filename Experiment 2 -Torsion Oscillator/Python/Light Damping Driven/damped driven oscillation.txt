@@ -1,0 +1,15 @@
+# This data is for the more damped driven oscillation (gamma 0.378)
+# maximum amplitude (rads), driving frequency (hz)
+0.032,0.1
+0.045,0.2
+0.075,0.3
+0.08,0.4
+0.082,0.5
+0.088,0.6
+0.1,0.7
+0.19,0.8
+0.38,0.9
+0.18,1
+0.09,1.1
+0.052,1.2
+0.01,1.3
